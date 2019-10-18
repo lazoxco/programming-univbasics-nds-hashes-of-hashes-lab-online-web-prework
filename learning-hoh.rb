@@ -76,3 +76,5 @@ def naming_system
 
   puts PORTION_1
 end
+
+naming_system
