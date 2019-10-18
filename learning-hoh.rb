@@ -16,16 +16,16 @@
 #   father: father_hash
 # }
 
-child = { 
-  :name => "Carrie Fisher",
-  :mother => {
-    :name => "Dabbie Reynolds",
-    :mother => {},
-    :father => {}
-  },
-  :father => {
-    :name => "Eddie Fisher",
-    :mother => {},
-    :father => {}
-  }
-}
+# child = { 
+#   :name => "Carrie Fisher",
+#   :mother => {
+#     :name => "Dabbie Reynolds",
+#     :mother => {},
+#     :father => {}
+#   },
+#   :father => {
+#     :name => "Eddie Fisher",
+#     :mother => {},
+#     :father => {}
+#   }
+# }
