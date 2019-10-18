@@ -84,8 +84,7 @@ def naming_system
     sub_category: {
       label: "Class",
       
-      PORTION_2
-      
+
     }
   }
 }
