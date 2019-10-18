@@ -91,5 +91,3 @@ def naming_system
 end
 
 naming_system
-
-naming_system
