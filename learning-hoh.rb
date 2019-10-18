@@ -77,8 +77,8 @@ PORTION_4 = {
 
 def naming_system
   
-
-  puts PORTION_1[:sub_category][:sub_category] << PORTION_2
+  new_hoh = PORTION_1[:sub_category][:sub_category] << PORTION_2
+  new_hoh
 end
 
 naming_system
