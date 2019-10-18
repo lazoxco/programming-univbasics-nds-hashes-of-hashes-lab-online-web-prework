@@ -78,7 +78,7 @@ PORTION_4 = {
 def naming_system
   
 
-  PORTION_1[:sub_category][:sub_category]
+  puts PORTION_1[:sub_category][:sub_category]
 end
 
 naming_system
